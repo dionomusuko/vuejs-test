@@ -18,7 +18,7 @@ gem 'puma', '~> 3.11'
 # add gem
 gem 'bootstrap'
 gem 'webpacker', github: 'rails/webpacker'
-#
+gem 'activeadmin'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
